@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-weight: bold;
+}
+
+header{
+	background-image: url(img/header.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+article{
+	display: inline-block;
+	width:65%;	
+}
+
+aside{
+	display:inline-block;
+	width:15%;
+	font-family: calibri;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#udg{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+
+#cuerpo{
+	font-family: calibri;
+	font-size: 20px;
+}
+
+#blue{
+	color: #069;	
+}
+
+#cursiva{
+	font-style: italic;	
+}
+
+#green{
+	color: #060;	
+}
+
+#white{
+	color: #FFF;
+}
