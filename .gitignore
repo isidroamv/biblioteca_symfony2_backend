@@ -2,6 +2,7 @@ files/
 img/
 desarroolladores/
 user.php 
+conexion.php
 
 *.rar
 *.pdf
